@@ -1,6 +1,6 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=300&section=header&text=Kim%20Ha%20Neul&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20Studying%20for%20Mobile%20App%20Developer&descAlignY=51&descAlign=62&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=waving&color=white&height=300&section=header&text=Kim%20Haneul&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Student%20Studying%20for%20Mobile%20App%20Developer&descAlignY=51&descAlign=62&fontColor=FFFFFF)
 
 
 
